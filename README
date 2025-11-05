@@ -12,7 +12,7 @@ Requereix tenir instal·lat previament:
 
 	- Crea una carpeta de nom  sm8. Dins d'aquesta carpeta crea una altra de nom sm8act02.
 	- Crea una carpeta de nom codis dins de sm8act02
-	- Descarrega el fitxer Vagrantfile que trobaràs a https://raw.githubusercontent.com/dcolla2/sm8act02/main/Vagrantfile dins de sm8act02
+	- Descarrega el fitxer Vagrantfile que trobaràs a https://raw.githubusercontent.com/dcolla2/sm8act02a/refs/heads/main/Vagrantfile dins de sm8act02
 
 2. Canvia el nom de sistema de la màquina virtual:
 
